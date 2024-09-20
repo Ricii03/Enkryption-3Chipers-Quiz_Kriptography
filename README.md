@@ -10,7 +10,7 @@ Program ini mendukung enkripsi dan dekripsi menggunakan tiga cipher: Vigenère C
 ## Cara Menjalankan
 1. Clone repository ini.
    ```bash
-   [git clone <repository_url>](https://github.com/Ricii03/Enkryption-3Chipers-Quiz_Kriptography)
+   [git clone <[repository_url](https://github.com/Ricii03/Enkryption-3Chipers-Quiz_Kriptography)>]
 2. Navigasi ke folder proyek dan install dependencies (jika ada).
 3. Jalankan program menggunakan perintah berikut:
    python main.py
